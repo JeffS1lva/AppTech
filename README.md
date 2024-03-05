@@ -1,4 +1,4 @@
-# AppTech
+# Dashboard-Tailwind
 
 ![Captura de ecrã de 2024-03-04 19-46-02](https://github.com/JeffS1lva/AppTech/assets/118827532/2a52b146-02ca-4f0b-9971-d9881a38688c)
 
@@ -57,4 +57,10 @@ Após clonar o projeto, instale as dependências:
 - Tailwind Variants
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-silva-2258ab230/)
+
+## 📝 Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [MIT](https://choosealicense.com/licenses/mit/) para obter mais detalhes.
+
+
 
